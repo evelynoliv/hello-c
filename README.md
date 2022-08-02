@@ -1,2 +1,2 @@
-# hello-cplus
+# hello-c++
 c++ training
